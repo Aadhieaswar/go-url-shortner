@@ -16,7 +16,7 @@
 
 #### Short URL Redirect
 - Endpoint: GET `/:shortCode`
-- Input: __Parameter__ `shortCode` --> shortened code for the URL generated
+- Input: __Parameter__ `shortCode` --> shortened code for the URL
 - Returns: Redirects you to the shortened URL if found in the db
 
 #### Discovery
