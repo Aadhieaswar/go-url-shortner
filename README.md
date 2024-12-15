@@ -6,6 +6,7 @@
 - Clone the project using `git clone https://github.com/Aadhieaswar/go-url-shortner.git`
 - In the project directory, install necessary golang modules for the project using `go mod tidy`
 - Start the url shortening service using `go run main.go`
+- The server runs on port `8080` by default
 
 ### Services
 #### URL Shortening Service
